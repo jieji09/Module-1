@@ -28,8 +28,3 @@ To run this project, follow these steps:
 ## The Product
 
 ![Wheat Animation](https://raw.githubusercontent.com/jieji09/Module-1/dbb7967d54413a5b8f718945ce761b4ad3716037/animation.gif)
-
-
-```python
-
-```
